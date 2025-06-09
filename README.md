@@ -1,4 +1,4 @@
-# Housing Price Prediction System (XGBoost Regressor)
+# Housing Price Prediction System 
 
 This project trains an advanced XGBoost regression model with hyperparameter tuning using `RandomizedSearchCV` to predict housing prices based on numerical features.
 
