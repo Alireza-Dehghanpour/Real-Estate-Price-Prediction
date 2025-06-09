@@ -72,4 +72,4 @@ The script will generate a horizontal bar chart showing the top features contrib
 
 ## Author
 
-**alireza dehghanpour**
+**Alireza Dehghanpour**
