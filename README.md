@@ -12,6 +12,10 @@ This project trains an advanced XGBoost regression model with hyperparameter tun
 - Target: MEDV (Median value of owner-occupied homes)
 - You can easily change them using pandas
 
+  
+> **You can download the dataset directly from Kaggle**:  
+> [Boston Housing Dataset on Kaggle](https://www.kaggle.com/datasets/altavish/boston-housing-dataset)
+
 > **Note**: You can also use your own housing dataset in `.csv` format with similar structure.
 
 ---
